@@ -18,3 +18,6 @@ nb : pada keyboard shortcut Command, tanpa menggunakan tanda " ".
 
 dokumentasi lengkap rofi ada disini : https://github.com/davatorium/rofi
 
+
+untuk themes Tokyo Night, saya menggunakan config dari master ini link : https://github.com/ahmadhabibi14/dotfile
+
